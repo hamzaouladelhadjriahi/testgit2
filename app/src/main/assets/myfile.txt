@@ -1,0 +1,1534 @@
+Direction et services d'appuits,,
+Réception,,
+42,État des locaux et du matériel,TOUT
+1,Propreté et rangement zone extérieure,TOUT
+2,"Propreté des bennes, containers, compacteurs",TOUT
+3,"Emplacement des bennes, containers, compacteurs",TOUTSAUFB
+4,Propreté locaux et équipements sans contact direct avec les aliments en zone réception,TOUT
+5,Absence de nuisibles,TOUT
+43,Température de la zone de stockage adaptée,TOUTSAUFB
+6,Température produit satisfaisante,TOUTSAUFB
+45,Bonne réalisation des opérations de contrôles température de stockage,TOUTSAUFB
+46,Autocontrôles température de stockage enregistrés et archivés,TOUT
+47,"Actions correctives contrôle et enregistrement température de stockage réalisées, enregistrées et archivées",TOUTSAUFB
+7,Emplacement des pièges à nuisibles,TOUTSAUFBC
+8,Existence d'une procédure formalisée des contrôles à réception,TOUTSAUFC
+9,Bonne réalisation des opérations de contrôles à réception,TOUTSAUFC
+10,Autocontrôles réception enregistrés et archivés,TOUT
+11,"Actions correctives contrôles à réception réalisées, enregistrées et archivées",TOUTSAUFB
+12,Planning/protocole de nettoyage connu et appliqué,TOUT
+13,"Autocontrôles des tâches de nettoyage réalisés, enregistrés et archivés",TOUT
+14,Conformité des produits d'entretien (agréé contact alimentaire),TOUTSAUFBC
+15,Entreposage isolé des produits d'entretien et matériel de nettoyage,TOUTSAUFBC
+16,Présence et fonctionnement du thermomètre,TOUTSAUFB
+17,Écart constaté avec une sonde de référence =,TOUT
+18,Écart constaté lors du test eau glace =,TOUT
+19,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+20,Comportement des opérateurs en zone réception,TOUTSAUFBC
+21,Protection des produits,TOUT
+,,
+Locaux communs,,
+22,Propreté et rangement des couloirs,TOUTSAUFB
+23,Armoire à pharmacie conforme,TOUTSAUFBC
+,,
+Vestiaires-sanitaires,,
+24,"Gestion des tenues professionnelles (linge, tabliers plastiques, chaussures...)",TOUTSAUFB
+25,"Présence de lave-mains, accessibles, conformes, propres et approvisionnés",TOUT
+26,Propreté et rangement vestiaires/sanitaires ,TOUTSAUFB
+27,"Lavage des mains adapté et conforme, absence de plaies non protégées",TOUTSAUFBC
+,,
+Documentaire,,
+29,Existence d'un plan de contrôle analytique formalisé et adapté,TOUTSAUFB
+30,Bulletins d'analyse accessibles et archivés,TOUTSAUFBC
+31,"Actions correctives plan de contrôle analytique réalisées, enregistrées et archivées",TOUTSAUFB
+32,Existence d'une procédure formalisée pour la traçabilité interne,TOUTSAUFBC
+223,Conformité de la traçabilité interne ,TOUTSAUFB
+49,Existence de procédure formalisée pour les dons aux associations caritatives,TOUTSAUFB
+50,Application des procédures pour les dons aux associations caritatives,TOUTSAUFC
+35,Connaissance des fournisseurs référencés par le magasin,TOUTSAUFB
+36,Existence d'un planning/protocole de nettoyage formalisé,TOUT
+51,Présence d'un programme d'entretien des systèmes de brumisation / nébulisation,TOUTSAUFB
+52,Application et archivage du programme d'entretien et de surveillance des systèmes de brumisation / nébulisation,TOUTSAUFBC
+37,Existence d'une procédure formalisée pour les contrôles et enregistrements des températures de stockage et/ou de vente en froid ,TOUTSAUFB
+164,Existence d’une procédure de dégustation,TOUT
+38,Formation renouvelée des opérateurs à l'hygiène des denrées alimentaire,TOUTSAUFB
+40,Existence d'un plan de lutte préventive anti-nuisibles formalisé ,TOUTSAUFB
+41,Archivage des bons d'intervention (lutte anti-nuisibles),TOUTSAUFC
+54,Validité instruments de mesure de masses,TOUTSAUFB
+162,Existence d’une procédure formalisée des contrôles de tare automatique,TOUTSAUFC
+55,Existence de procédures formalisées pour les alertes,TOUTSAUFB
+56,"Isolement et balisage des produits concernés par une alerte, Affichage des rappels en cours (KO)",KO
+58,"Alertes : Gestion documentaire (remontée d'info, ...)",TOUTSAUFBC
+,,
+Commun,,
+225,Produits non-conformes isolés et balisés (KO),KO
+232,Présence des documents de référence pour les activités soumises à agrément (Alerte),ALERTE
+238,Situation sanitaire critique (Alerte),ALERTE
+,,
+,,
+APLS1,,
+Stockage,,
+100,Capacités de stockage,TOUTSAUFBC
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+105,Protection des produits,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+110,Identification des denrées alimentaires,TOUT
+120,Rotation des produits,TOUT
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Vente libre-service,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+135,Température de la zone adaptée,TOUTSAUFB
+136,Affichage température en état de fonctionnement,TOUTSAUFBC
+137,Respect des limites de charge des meubles ,TOUT
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Vente vrac,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+105,Protection des produits,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+120,Rotation des produits,TOUT
+121,"Respect des DLC/DUR/DDM ingrédients, des produits déconditionnés et absence de post-datage (KO)",KO
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+157,Application de durée de vie (DLC) non validée ou supérieure à la durée de vie validée dans le PMS ou dans les GBPH (KO),KO
+126,Conformité de l'étiquetage - mentions générales hors sécurité des denrées alimentaires,TOUTSAUFB
+127,Conformité de l'étiquetage - sécurité des denrées alimentaires,TOUTSAUFBC
+128,Nombre de références dont l’étiquetage est non conforme à la sécurité alimentaire ,
+158,Bonne application de la tare pour la pesée de produit vendu au poids,TOUTSAUFBC
+134,Comportement des opérateurs,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+136,Affichage température en état de fonctionnement,TOUTSAUFBC
+137,Respect des limites de charge des meubles ,TOUT
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Commun,,
+56,"Isolement et balisage des produits concernés par une alerte, Affichage des rappels en cours (KO)",KO
+57,Retrait effectif des produits dans le cas d’une alerte (Alerte),ALERTE
+200,État des locaux et du matériel,TOUT
+201,Utilisation des locaux et équipements selon leur destination attendue,TOUTSAUFB
+202,Marche en avant - séparation des secteurs,TOUTSAUFC
+234,Absence de nuisibles,TOUT
+235,Infestation massive de nuisibles ou dégradation de produits à la vente avec un impact avéré sur les produits (KO),KO
+236,Emplacement des pièges à nuisibles,TOUTSAUFBC
+227,Présence de dossier HACCP pour tous les process de l'activité non couverts par les GBPH officiels ou guide interne enseigne,TOUTSAUFB
+207,Absence de pratiques non autorisées par la réglementation (KO),KO
+209,Présence et fonctionnement du thermomètre,TOUTSAUFB
+210,Écart constaté avec une sonde de référence =,
+211,Écart constaté lors du test eau glace =,
+212,Bonne réalisation des opérations de contrôle des températures de stockage et/ou de vente en froid,TOUTSAUFB
+213,Autocontrôles température de stockage ou de vente en froid enregistrés et archivés,TOUT
+214,"Actions correctives contrôle et enregistrement température de stockage ou de vente en froid réalisées, enregistrées et archivées",TOUTSAUFB
+215,Planning/protocole de nettoyage connu et appliqué,TOUT
+216,Conformité et états du matériel de nettoyage et désinfection,TOUTSAUFB
+217,"Autocontrôles des tâches de nettoyage réalisés, enregistrés et archivés",TOUT
+218,Conformité des produits d'entretien (agréé contact alimentaire),TOUTSAUFBC
+219,Entreposage isolé des produits d'entretien et matériel de nettoyage,TOUTSAUFBC
+220,Durées de vie définies et validées,TOUTSAUFB
+163,Bonne réalisation des autocontrôles de tare automatique,TOUT
+165,Respect de la procédure de dégustation,TOUTSAUFC
+222,Sensibilisation aux règles d'hygiène de base,TOUTSAUFB
+223,Conformité de la traçabilité interne ,TOUTSAUFB
+225,Produits non-conformes isolés et balisés (KO),KO
+231,Surveillance des autres PRPo / CCP,TOUT
+237,Absence de défaut d’infrastructure ou de propreté ayant une conséquence directe sur les produits (KO),KO
+,,
+,,
+Boucherie,,
+Stockage,,
+100,Capacités de stockage,TOUTSAUFBC
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+200,État des locaux et du matériel,TOUT
+104,Conformité des matériaux au contact des aliments,TOUTSAUFBC
+105,Protection des produits,TOUT
+106,Séparation des denrées alimentaires de nature différente,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+110,Identification des denrées alimentaires,TOUT
+120,Rotation des produits,TOUT
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Préparation,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+200,État des locaux et du matériel,TOUT
+104,Conformité des matériaux au contact des aliments,TOUTSAUFBC
+105,Protection des produits,TOUT
+106,Séparation des denrées alimentaires de nature différente,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+109,Bonnes conditions de retrait de la moelle épinière des ovins et caprins de 12 mois ou plus de 12 mois ou plus,TOUTSAUFBC
+113,Conditions de déconditionnement satisfaisantes,TOUTSAUFB
+114,Conditions de déballage décartonnage satisfaisantes,TOUTSAUFB
+115,Conditions de décongélation satisfaisantes,TOUTSAUFBC
+116,Existence de fiches recettes,TOUTSAUFB
+117,Respect des fiches recettes,TOUTSAUFC
+118,Existence d'un protocole formalisé de décontamination des végétaux,TOUTSAUFB
+119,Respect du protocole de décontamination des végétaux,TOUTSAUFB
+151,Existence de consigne formalisée pour les opérations de hachage,TOUTSAUFB
+152,Respect des consignes pour les opérations de hachage,TOUTSAUFBC
+121,"Respect des DLC/DUR/DDM ingrédients, des produits déconditionnés et absence de post-datage (KO)",KO
+130,Propreté et conformité de la tenue,TOUT
+131,"Présence de lave-mains, accessibles, conformes, propres et approvisionnés",TOUT
+132,État des mains et absence de bijoux,TOUT
+133,"Lavage des mains ou changement de gants adapté et conforme, absence de plaies non protégées",TOUTSAUFB
+134,Comportement des opérateurs,TOUTSAUFBC
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Vente traditionnelle,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+200,État des locaux et du matériel,TOUT
+104,Conformité des matériaux au contact des aliments,TOUTSAUFBC
+105,Protection des produits,TOUT
+106,Séparation des denrées alimentaires de nature différente,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+120,Rotation des produits,TOUT
+121,"Respect des DLC/DUR/DDM ingrédients, des produits déconditionnés et absence de post-datage (KO)",KO
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+126,Conformité de l'étiquetage - mentions générales hors sécurité des denrées alimentaires,TOUTSAUFB
+127,Conformité de l'étiquetage - sécurité des denrées alimentaires,TOUTSAUFBC
+128,Nombre de références dont l’étiquetage est non conforme à la sécurité alimentaire ,
+158,Bonne application de la tare pour la pesée de produit vendu au poids,TOUTSAUFBC
+130,Propreté et conformité de la tenue,TOUT
+131,"Présence de lave-mains, accessibles, conformes, propres et approvisionnés",TOUT
+132,État des mains et absence de bijoux,TOUT
+133,"Lavage des mains ou changement de gants adapté et conforme, absence de plaies non protégées",TOUTSAUFB
+134,Comportement des opérateurs,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+136,Affichage température en état de fonctionnement,TOUTSAUFBC
+137,Respect des limites de charge des meubles ,TOUT
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Vente libre-service,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+122,Absence de reconditionnement avec prolongation de date (Alerte),ALERTE
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+157,Application de durée de vie (DLC) non validée ou supérieure à la durée de vie validée dans le PMS ou dans les GBPH (KO),KO
+126,Conformité de l'étiquetage - mentions générales hors sécurité des denrées alimentaires,TOUTSAUFB
+127,Conformité de l'étiquetage - sécurité des denrées alimentaires,TOUTSAUFBC
+128,Nombre de références dont l’étiquetage est non conforme à la sécurité alimentaire ,
+158,Bonne application de la tare pour la pesée de produit vendu au poids,TOUTSAUFBC
+134,Comportement des opérateurs,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+136,Affichage température en état de fonctionnement,TOUTSAUFBC
+137,Respect des limites de charge des meubles ,TOUT
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Commun,,
+56,"Isolement et balisage des produits concernés par une alerte, Affichage des rappels en cours (KO)",KO
+57,Retrait effectif des produits dans le cas d’une alerte (Alerte),ALERTE
+201,Utilisation des locaux et équipements selon leur destination attendue,TOUTSAUFB
+202,Marche en avant - séparation des secteurs,TOUTSAUFC
+203,Hottes et extraction efficaces,TOUTSAUFB
+234,Absence de nuisibles,TOUT
+235,Infestation massive de nuisibles ou dégradation de produits à la vente avec un impact avéré sur les produits (KO),KO
+236,Emplacement des pièges à nuisibles,TOUTSAUFBC
+227,Présence de dossier HACCP pour tous les process de l'activité non couverts par les GBPH officiels ou guide interne enseigne,TOUTSAUFB
+206,Présence des documents de référence pour les activités soumises à dérogation à l'agrément (KO),KO
+207,Absence de pratiques non autorisées par la réglementation (KO),KO
+208,Conformité des poubelles. Traitement hygiénique des déchets,TOUT
+209,Présence et fonctionnement du thermomètre,TOUTSAUFB
+210,Écart constaté avec une sonde de référence =,
+211,Écart constaté lors du test eau glace =,
+212,Bonne réalisation des opérations de contrôle des températures de stockage et/ou de vente en froid,TOUTSAUFB
+213,Autocontrôles température de stockage ou de vente en froid enregistrés et archivés,TOUT
+214,"Actions correctives contrôle et enregistrement température de stockage ou de vente en froid réalisées, enregistrées et archivées",TOUTSAUFB
+215,Planning/protocole de nettoyage connu et appliqué,TOUT
+216,Conformité et états du matériel de nettoyage et désinfection,TOUTSAUFB
+217,"Autocontrôles des tâches de nettoyage réalisés, enregistrés et archivés",TOUT
+218,Conformité des produits d'entretien (agréé contact alimentaire),TOUTSAUFBC
+219,Entreposage isolé des produits d'entretien et matériel de nettoyage,TOUTSAUFBC
+220,Durées de vie définies et validées,TOUTSAUFB
+221,Conditions de stockage des emballages et conditionnements satisfaisantes,TOUTSAUFC
+163,Bonne réalisation des autocontrôles de tare automatique,TOUT
+165,Respect de la procédure de dégustation,TOUTSAUFC
+222,Sensibilisation aux règles d'hygiène de base,TOUTSAUFB
+223,Conformité de la traçabilité interne ,TOUTSAUFB
+224,Comptabilité matière viande bovine,TOUTSAUFBC
+225,Produits non-conformes isolés et balisés (KO),KO
+231,Surveillance des autres PRPo / CCP,TOUT
+237,Absence de défaut d’infrastructure ou de propreté ayant une conséquence directe sur les produits (KO),KO
+,,
+,,
+Boulangerie,,
+Stockage,,
+100,Capacités de stockage,TOUTSAUFBC
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+200,État des locaux et du matériel,TOUT
+104,Conformité des matériaux au contact des aliments,TOUTSAUFBC
+105,Protection des produits,TOUT
+106,Séparation des denrées alimentaires de nature différente,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+110,Identification des denrées alimentaires,TOUT
+120,Rotation des produits,TOUT
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Préparation,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+200,État des locaux et du matériel,TOUT
+104,Conformité des matériaux au contact des aliments,TOUTSAUFBC
+105,Protection des produits,TOUT
+106,Séparation des denrées alimentaires de nature différente,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+113,Conditions de déconditionnement satisfaisantes,TOUTSAUFB
+114,Conditions de déballage décartonnage satisfaisantes,TOUTSAUFB
+115,Conditions de décongélation satisfaisantes,TOUTSAUFBC
+116,Existence de fiches recettes,TOUTSAUFB
+117,Respect des fiches recettes,TOUTSAUFC
+121,"Respect des DLC/DUR/DDM ingrédients, des produits déconditionnés et absence de post-datage (KO)",KO
+160,Qualité huile de friture ,TOUTSAUFB
+161,"Autocontrôles huiles de friture réalisés, enregistrés et archivés",TOUT
+130,Propreté et conformité de la tenue,TOUT
+131,"Présence de lave-mains, accessibles, conformes, propres et approvisionnés",TOUT
+132,État des mains et absence de bijoux,TOUT
+133,"Lavage des mains ou changement de gants adapté et conforme, absence de plaies non protégées",TOUTSAUFB
+134,Comportement des opérateurs,TOUTSAUFBC
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+140,Existence d'une procédure de congélation formalisée,TOUT
+141,Bonne réalisation des opérations de congélation,TOUTSAUFBC
+142,"Existence d'une procédure formalisée pour les opérations de cuisson, remise et maintien en température",TOUTSAUFB
+143,Bonne réalisation des opérations de cuisson et remise en température ,TOUTSAUFBC
+144,Bonne réalisation des opérations de maintien en température ,TOUTSAUFBC
+145,"Autocontrôles de température lors de la cuisson, de la remise et du maintien en température réalisés, enregistrés et archivés",TOUT
+146,"Actions correctives de la cuisson, de la remise et du maintien en température réalisées, enregistrées et archivées",TOUT
+147,Existence d'une procédure cycles de refroidissement,TOUT
+148,Bonne réalisation des opérations de refroidissement,TOUTSAUFBC
+149,"Autocontrôles cycles de refroidissement réalisés, enregistrés et archivés",TOUT
+150,"Actions correctives cycles de refroidissement réalisées, enregistrées et archivées",TOUT
+,,
+Vente traditionnelle,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+200,État des locaux et du matériel,TOUT
+104,Conformité des matériaux au contact des aliments,TOUTSAUFBC
+105,Protection des produits,TOUT
+106,Séparation des denrées alimentaires de nature différente,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+120,Rotation des produits,TOUT
+121,"Respect des DLC/DUR/DDM ingrédients, des produits déconditionnés et absence de post-datage (KO)",KO
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+126,Conformité de l'étiquetage - mentions générales hors sécurité des denrées alimentaires,TOUTSAUFB
+127,Conformité de l'étiquetage - sécurité des denrées alimentaires,TOUTSAUFBC
+128,Nombre de références dont l’étiquetage est non conforme à la sécurité alimentaire ,
+158,Bonne application de la tare pour la pesée de produit vendu au poids,TOUTSAUFBC
+130,Propreté et conformité de la tenue,TOUT
+131,"Présence de lave-mains, accessibles, conformes, propres et approvisionnés",TOUT
+132,État des mains et absence de bijoux,TOUT
+133,"Lavage des mains ou changement de gants adapté et conforme, absence de plaies non protégées",TOUTSAUFB
+134,Comportement des opérateurs,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Vente libre-service,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+122,Absence de reconditionnement avec prolongation de date (Alerte),ALERTE
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+157,Application de durée de vie (DLC) non validée ou supérieure à la durée de vie validée dans le PMS ou dans les GBPH (KO),KO
+126,Conformité de l'étiquetage - mentions générales hors sécurité des denrées alimentaires,TOUTSAUFB
+127,Conformité de l'étiquetage - sécurité des denrées alimentaires,TOUTSAUFBC
+128,Nombre de références dont l’étiquetage est non conforme à la sécurité alimentaire ,
+158,Bonne application de la tare pour la pesée de produit vendu au poids,TOUTSAUFBC
+134,Comportement des opérateurs,TOUTSAUFBC
+,,
+Vente vrac,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+105,Protection des produits,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+120,Rotation des produits,TOUT
+121,"Respect des DLC/DUR/DDM ingrédients, des produits déconditionnés et absence de post-datage (KO)",KO
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+157,Application de durée de vie (DLC) non validée ou supérieure à la durée de vie validée dans le PMS ou dans les GBPH (KO),KO
+126,Conformité de l'étiquetage - mentions générales hors sécurité des denrées alimentaires,TOUTSAUFB
+127,Conformité de l'étiquetage - sécurité des denrées alimentaires,TOUTSAUFBC
+128,Nombre de références dont l’étiquetage est non conforme à la sécurité alimentaire ,
+158,Bonne application de la tare pour la pesée de produit vendu au poids,TOUTSAUFBC
+134,Comportement des opérateurs,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+136,Affichage température en état de fonctionnement,TOUTSAUFBC
+137,Respect des limites de charge des meubles ,TOUT
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Commun,,
+56,"Isolement et balisage des produits concernés par une alerte, Affichage des rappels en cours (KO)",KO
+57,Retrait effectif des produits dans le cas d’une alerte (Alerte),ALERTE
+201,Utilisation des locaux et équipements selon leur destination attendue,TOUTSAUFB
+202,Marche en avant - séparation des secteurs,TOUTSAUFC
+203,Hottes et extraction efficaces,TOUTSAUFB
+234,Absence de nuisibles,TOUT
+235,Infestation massive de nuisibles ou dégradation de produits à la vente avec un impact avéré sur les produits (KO),KO
+236,Emplacement des pièges à nuisibles,TOUTSAUFBC
+227,Présence de dossier HACCP pour tous les process de l'activité non couverts par les GBPH officiels ou guide interne enseigne,TOUTSAUFB
+207,Absence de pratiques non autorisées par la réglementation (KO),KO
+208,Conformité des poubelles. Traitement hygiénique des déchets,TOUT
+209,Présence et fonctionnement du thermomètre,TOUTSAUFB
+210,Écart constaté avec une sonde de référence =,
+211,Écart constaté lors du test eau glace =,
+212,Bonne réalisation des opérations de contrôle des températures de stockage et/ou de vente en froid,TOUTSAUFB
+213,Autocontrôles température de stockage ou de vente en froid enregistrés et archivés,TOUT
+214,"Actions correctives contrôle et enregistrement température de stockage ou de vente en froid réalisées, enregistrées et archivées",TOUTSAUFB
+215,Planning/protocole de nettoyage connu et appliqué,TOUT
+216,Conformité et états du matériel de nettoyage et désinfection,TOUTSAUFB
+217,"Autocontrôles des tâches de nettoyage réalisés, enregistrés et archivés",TOUT
+218,Conformité des produits d'entretien (agréé contact alimentaire),TOUTSAUFBC
+219,Entreposage isolé des produits d'entretien et matériel de nettoyage,TOUTSAUFBC
+220,Durées de vie définies et validées,TOUTSAUFB
+221,Conditions de stockage des emballages et conditionnements satisfaisantes,TOUTSAUFC
+163,Bonne réalisation des autocontrôles de tare automatique,TOUT
+165,Respect de la procédure de dégustation,TOUTSAUFC
+222,Sensibilisation aux règles d'hygiène de base,TOUTSAUFB
+223,Conformité de la traçabilité interne ,TOUTSAUFB
+225,Produits non-conformes isolés et balisés (KO),KO
+231,Surveillance des autres PRPo / CCP,TOUT
+237,Absence de défaut d’infrastructure ou de propreté ayant une conséquence directe sur les produits (KO),KO
+,,
+,,
+Fromage cremerie,,
+Stockage,,
+100,Capacités de stockage,TOUTSAUFBC
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+200,État des locaux et du matériel,TOUT
+104,Conformité des matériaux au contact des aliments,TOUTSAUFBC
+105,Protection des produits,TOUT
+106,Séparation des denrées alimentaires de nature différente,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+110,Identification des denrées alimentaires,TOUT
+111,Conditions de resserre satisfaisantes,TOUTSAUFB
+120,Rotation des produits,TOUT
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Préparation,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+200,État des locaux et du matériel,TOUT
+104,Conformité des matériaux au contact des aliments,TOUTSAUFBC
+105,Protection des produits,TOUT
+106,Séparation des denrées alimentaires de nature différente,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+113,Conditions de déconditionnement satisfaisantes,TOUTSAUFB
+114,Conditions de déballage décartonnage satisfaisantes,TOUTSAUFB
+118,Existence d'un protocole formalisé de décontamination des végétaux,TOUTSAUFB
+119,Respect du protocole de décontamination des végétaux,TOUTSAUFB
+121,"Respect des DLC/DUR/DDM ingrédients, des produits déconditionnés et absence de post-datage (KO)",KO
+130,Propreté et conformité de la tenue,TOUT
+131,"Présence de lave-mains, accessibles, conformes, propres et approvisionnés",TOUT
+132,État des mains et absence de bijoux,TOUT
+133,"Lavage des mains ou changement de gants adapté et conforme, absence de plaies non protégées",TOUTSAUFB
+134,Comportement des opérateurs,TOUTSAUFBC
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Vente traditionnelle,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+200,État des locaux et du matériel,TOUT
+104,Conformité des matériaux au contact des aliments,TOUTSAUFBC
+105,Protection des produits,TOUT
+106,Séparation des denrées alimentaires de nature différente,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+120,Rotation des produits,TOUT
+121,"Respect des DLC/DUR/DDM ingrédients, des produits déconditionnés et absence de post-datage (KO)",KO
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+126,Conformité de l'étiquetage - mentions générales hors sécurité des denrées alimentaires,TOUTSAUFB
+127,Conformité de l'étiquetage - sécurité des denrées alimentaires,TOUTSAUFBC
+128,Nombre de références dont l’étiquetage est non conforme à la sécurité alimentaire ,
+158,Bonne application de la tare pour la pesée de produit vendu au poids,TOUTSAUFBC
+130,Propreté et conformité de la tenue,TOUT
+131,"Présence de lave-mains, accessibles, conformes, propres et approvisionnés",TOUT
+132,État des mains et absence de bijoux,TOUT
+133,"Lavage des mains ou changement de gants adapté et conforme, absence de plaies non protégées",TOUTSAUFB
+134,Comportement des opérateurs,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+136,Affichage température en état de fonctionnement,TOUTSAUFBC
+137,Respect des limites de charge des meubles ,TOUT
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Vente libre-service,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+122,Absence de reconditionnement avec prolongation de date (Alerte),ALERTE
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+157,Application de durée de vie (DLC) non validée ou supérieure à la durée de vie validée dans le PMS ou dans les GBPH (KO),KO
+126,Conformité de l'étiquetage - mentions générales hors sécurité des denrées alimentaires,TOUTSAUFB
+127,Conformité de l'étiquetage - sécurité des denrées alimentaires,TOUTSAUFBC
+128,Nombre de références dont l’étiquetage est non conforme à la sécurité alimentaire ,
+158,Bonne application de la tare pour la pesée de produit vendu au poids,TOUTSAUFBC
+134,Comportement des opérateurs,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+136,Affichage température en état de fonctionnement,TOUTSAUFBC
+137,Respect des limites de charge des meubles ,TOUT
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Vente vrac,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+105,Protection des produits,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+120,Rotation des produits,TOUT
+121,"Respect des DLC/DUR/DDM ingrédients, des produits déconditionnés et absence de post-datage (KO)",KO
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+157,Application de durée de vie (DLC) non validée ou supérieure à la durée de vie validée dans le PMS ou dans les GBPH (KO),KO
+126,Conformité de l'étiquetage - mentions générales hors sécurité des denrées alimentaires,TOUTSAUFB
+127,Conformité de l'étiquetage - sécurité des denrées alimentaires,TOUTSAUFBC
+128,Nombre de références dont l’étiquetage est non conforme à la sécurité alimentaire ,
+158,Bonne application de la tare pour la pesée de produit vendu au poids,TOUTSAUFBC
+134,Comportement des opérateurs,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+136,Affichage température en état de fonctionnement,TOUTSAUFBC
+137,Respect des limites de charge des meubles ,TOUT
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Commun,,
+56,"Isolement et balisage des produits concernés par une alerte, Affichage des rappels en cours (KO)",KO
+57,Retrait effectif des produits dans le cas d’une alerte (Alerte),ALERTE
+201,Utilisation des locaux et équipements selon leur destination attendue,TOUTSAUFB
+202,Marche en avant - séparation des secteurs,TOUTSAUFC
+203,Hottes et extraction efficaces,TOUTSAUFB
+234,Absence de nuisibles,TOUT
+235,Infestation massive de nuisibles ou dégradation de produits à la vente avec un impact avéré sur les produits (KO),KO
+236,Emplacement des pièges à nuisibles,TOUTSAUFBC
+227,Présence de dossier HACCP pour tous les process de l'activité non couverts par les GBPH officiels ou guide interne enseigne,TOUTSAUFB
+206,Présence des documents de référence pour les activités soumises à dérogation à l'agrément (KO),KO
+207,Absence de pratiques non autorisées par la réglementation (KO),KO
+208,Conformité des poubelles. Traitement hygiénique des déchets,TOUT
+209,Présence et fonctionnement du thermomètre,TOUTSAUFB
+210,Écart constaté avec une sonde de référence =,
+211,Écart constaté lors du test eau glace =,
+212,Bonne réalisation des opérations de contrôle des températures de stockage et/ou de vente en froid,TOUTSAUFB
+213,Autocontrôles température de stockage ou de vente en froid enregistrés et archivés,TOUT
+214,"Actions correctives contrôle et enregistrement température de stockage ou de vente en froid réalisées, enregistrées et archivées",TOUTSAUFB
+215,Planning/protocole de nettoyage connu et appliqué,TOUT
+216,Conformité et états du matériel de nettoyage et désinfection,TOUTSAUFB
+217,"Autocontrôles des tâches de nettoyage réalisés, enregistrés et archivés",TOUT
+218,Conformité des produits d'entretien (agréé contact alimentaire),TOUTSAUFBC
+219,Entreposage isolé des produits d'entretien et matériel de nettoyage,TOUTSAUFBC
+220,Durées de vie définies et validées,TOUTSAUFB
+221,Conditions de stockage des emballages et conditionnements satisfaisantes,TOUTSAUFC
+163,Bonne réalisation des autocontrôles de tare automatique,TOUT
+165,Respect de la procédure de dégustation,TOUTSAUFC
+222,Sensibilisation aux règles d'hygiène de base,TOUTSAUFB
+223,Conformité de la traçabilité interne ,TOUTSAUFB
+225,Produits non-conformes isolés et balisés (KO),KO
+231,Surveillance des autres PRPo / CCP,TOUT
+237,Absence de défaut d’infrastructure ou de propreté ayant une conséquence directe sur les produits (KO),KO
+,,
+,,
+Fruits et legumes,,
+Stockage,,
+100,Capacités de stockage,TOUTSAUFBC
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+200,État des locaux et du matériel,TOUT
+104,Conformité des matériaux au contact des aliments,TOUTSAUFBC
+105,Protection des produits,TOUT
+106,Séparation des denrées alimentaires de nature différente,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+110,Identification des denrées alimentaires,TOUT
+111,Conditions de resserre satisfaisantes,TOUTSAUFB
+120,Rotation des produits,TOUT
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Préparation,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+200,État des locaux et du matériel,TOUT
+104,Conformité des matériaux au contact des aliments,TOUTSAUFBC
+105,Protection des produits,TOUT
+106,Séparation des denrées alimentaires de nature différente,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+113,Conditions de déconditionnement satisfaisantes,TOUTSAUFB
+114,Conditions de déballage décartonnage satisfaisantes,TOUTSAUFB
+115,Conditions de décongélation satisfaisantes,TOUTSAUFBC
+116,Existence de fiches recettes,TOUTSAUFB
+117,Respect des fiches recettes,TOUTSAUFC
+118,Existence d'un protocole formalisé de décontamination des végétaux,TOUTSAUFB
+119,Respect du protocole de décontamination des végétaux,TOUTSAUFB
+121,"Respect des DLC/DUR/DDM ingrédients, des produits déconditionnés et absence de post-datage (KO)",KO
+130,Propreté et conformité de la tenue,TOUT
+131,"Présence de lave-mains, accessibles, conformes, propres et approvisionnés",TOUT
+132,État des mains et absence de bijoux,TOUT
+133,"Lavage des mains ou changement de gants adapté et conforme, absence de plaies non protégées",TOUTSAUFB
+134,Comportement des opérateurs,TOUTSAUFBC
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Vente traditionnelle,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+200,État des locaux et du matériel,TOUT
+104,Conformité des matériaux au contact des aliments,TOUTSAUFBC
+105,Protection des produits,TOUT
+106,Séparation des denrées alimentaires de nature différente,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+120,Rotation des produits,TOUT
+121,"Respect des DLC/DUR/DDM ingrédients, des produits déconditionnés et absence de post-datage (KO)",KO
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+126,Conformité de l'étiquetage - mentions générales hors sécurité des denrées alimentaires,TOUTSAUFB
+166,Conformité de l’étiquetage des fruits et légumes de 1ère gamme – mentions générales hors sécurité des denrées alimentaires,TOUTSAUFBC
+167,Nombre de références dont l’étiquetage est non conforme,
+168,Présence à la vente de fruits et légumes de 1ère gamme altérés non commercialisables,TOUTSAUFBC
+169,Nombre de références de fruits et légumes de 1ère gamme altérés non commercialisables,
+127,Conformité de l'étiquetage - sécurité des denrées alimentaires,TOUTSAUFBC
+128,Nombre de références dont l’étiquetage est non conforme à la sécurité alimentaire ,
+158,Bonne application de la tare pour la pesée de produit vendu au poids,TOUTSAUFBC
+130,Propreté et conformité de la tenue,TOUT
+131,"Présence de lave-mains, accessibles, conformes, propres et approvisionnés",TOUT
+132,État des mains et absence de bijoux,TOUT
+133,"Lavage des mains ou changement de gants adapté et conforme, absence de plaies non protégées",TOUTSAUFB
+134,Comportement des opérateurs,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+136,Affichage température en état de fonctionnement,TOUTSAUFBC
+137,Respect des limites de charge des meubles ,TOUT
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Vente libre-service,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+122,Absence de reconditionnement avec prolongation de date (Alerte),ALERTE
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+157,Application de durée de vie (DLC) non validée ou supérieure à la durée de vie validée dans le PMS ou dans les GBPH (KO),KO
+126,Conformité de l'étiquetage - mentions générales hors sécurité des denrées alimentaires,TOUTSAUFB
+127,Conformité de l'étiquetage - sécurité des denrées alimentaires,TOUTSAUFBC
+128,Nombre de références dont l’étiquetage est non conforme à la sécurité alimentaire ,
+158,Bonne application de la tare pour la pesée de produit vendu au poids,TOUTSAUFBC
+134,Comportement des opérateurs,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+136,Affichage température en état de fonctionnement,TOUTSAUFBC
+137,Respect des limites de charge des meubles ,TOUT
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Vente vrac,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+105,Protection des produits,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+120,Rotation des produits,TOUT
+121,"Respect des DLC/DUR/DDM ingrédients, des produits déconditionnés et absence de post-datage (KO)",KO
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+157,Application de durée de vie (DLC) non validée ou supérieure à la durée de vie validée dans le PMS ou dans les GBPH (KO),KO
+126,Conformité de l'étiquetage - mentions générales hors sécurité des denrées alimentaires,TOUTSAUFB
+166,Conformité de l’étiquetage des fruits et légumes de 1ère gamme – mentions générales hors sécurité des denrées alimentaires,TOUTSAUFBC
+167,Nombre de références dont l’étiquetage est non conforme,
+168,Présence à la vente de fruits et légumes de 1ère gamme altérés non commercialisables,TOUTSAUFBC
+169,Nombre de références de fruits et légumes de 1ère gamme altérés non commercialisables,
+127,Conformité de l'étiquetage - sécurité des denrées alimentaires,TOUTSAUFBC
+128,Nombre de références dont l’étiquetage est non conforme à la sécurité alimentaire ,
+158,Bonne application de la tare pour la pesée de produit vendu au poids,TOUTSAUFBC
+134,Comportement des opérateurs,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+136,Affichage température en état de fonctionnement,TOUTSAUFBC
+137,Respect des limites de charge des meubles ,TOUT
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Commun,,
+56,"Isolement et balisage des produits concernés par une alerte, Affichage des rappels en cours (KO)",KO
+57,Retrait effectif des produits dans le cas d’une alerte (Alerte),ALERTE
+201,Utilisation des locaux et équipements selon leur destination attendue,TOUTSAUFB
+202,Marche en avant - séparation des secteurs,TOUTSAUFC
+234,Absence de nuisibles,TOUT
+235,Infestation massive de nuisibles ou dégradation de produits à la vente avec un impact avéré sur les produits (KO),KO
+236,Emplacement des pièges à nuisibles,TOUTSAUFBC
+227,Présence de dossier HACCP pour tous les process de l'activité non couverts par les GBPH officiels ou guide interne enseigne,TOUTSAUFB
+208,Conformité des poubelles. Traitement hygiénique des déchets,TOUT
+209,Présence et fonctionnement du thermomètre,TOUTSAUFB
+210,Écart constaté avec une sonde de référence =,
+211,Écart constaté lors du test eau glace =,
+212,Bonne réalisation des opérations de contrôle des températures de stockage et/ou de vente en froid,TOUTSAUFB
+213,Autocontrôles température de stockage ou de vente en froid enregistrés et archivés,TOUT
+214,"Actions correctives contrôle et enregistrement température de stockage ou de vente en froid réalisées, enregistrées et archivées",TOUTSAUFB
+215,Planning/protocole de nettoyage connu et appliqué,TOUT
+216,Conformité et états du matériel de nettoyage et désinfection,TOUTSAUFB
+217,"Autocontrôles des tâches de nettoyage réalisés, enregistrés et archivés",TOUT
+218,Conformité des produits d'entretien (agréé contact alimentaire),TOUTSAUFBC
+219,Entreposage isolé des produits d'entretien et matériel de nettoyage,TOUTSAUFBC
+220,Durées de vie définies et validées,TOUTSAUFB
+221,Conditions de stockage des emballages et conditionnements satisfaisantes,TOUTSAUFC
+163,Bonne réalisation des autocontrôles de tare automatique,TOUT
+165,Respect de la procédure de dégustation,TOUTSAUFC
+222,Sensibilisation aux règles d'hygiène de base,TOUTSAUFB
+223,Conformité de la traçabilité interne ,TOUTSAUFB
+225,Produits non-conformes isolés et balisés (KO),KO
+231,Surveillance des autres PRPo / CCP,TOUT
+237,Absence de défaut d’infrastructure ou de propreté ayant une conséquence directe sur les produits (KO),KO
+,,
+,,
+Marée,,
+Stockage,,
+100,Capacités de stockage,TOUTSAUFBC
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+200,État des locaux et du matériel,TOUT
+104,Conformité des matériaux au contact des aliments,TOUTSAUFBC
+105,Protection des produits,TOUT
+106,Séparation des denrées alimentaires de nature différente,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+110,Identification des denrées alimentaires,TOUT
+111,Conditions de resserre satisfaisantes,TOUTSAUFB
+112,Condition de manipulation de la glace satisfaisante,TOUT
+120,Rotation des produits,TOUT
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Préparation,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+200,État des locaux et du matériel,TOUT
+104,Conformité des matériaux au contact des aliments,TOUTSAUFBC
+105,Protection des produits,TOUT
+106,Séparation des denrées alimentaires de nature différente,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+113,Conditions de déconditionnement satisfaisantes,TOUTSAUFB
+114,Conditions de déballage décartonnage satisfaisantes,TOUTSAUFB
+115,Conditions de décongélation satisfaisantes,TOUTSAUFBC
+116,Existence de fiches recettes,TOUTSAUFB
+117,Respect des fiches recettes,TOUTSAUFC
+118,Existence d'un protocole formalisé de décontamination des végétaux,TOUTSAUFB
+119,Respect du protocole de décontamination des végétaux,TOUTSAUFB
+121,"Respect des DLC/DUR/DDM ingrédients, des produits déconditionnés et absence de post-datage (KO)",KO
+130,Propreté et conformité de la tenue,TOUT
+131,"Présence de lave-mains, accessibles, conformes, propres et approvisionnés",TOUT
+132,État des mains et absence de bijoux,TOUT
+133,"Lavage des mains ou changement de gants adapté et conforme, absence de plaies non protégées",TOUTSAUFB
+134,Comportement des opérateurs,TOUTSAUFBC
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+142,"Existence d'une procédure formalisée pour les opérations de cuisson, remise et maintien en température",TOUTSAUFB
+143,Bonne réalisation des opérations de cuisson et remise en température ,TOUTSAUFBC
+144,Bonne réalisation des opérations de maintien en température ,TOUTSAUFBC
+145,"Autocontrôles de température lors de la cuisson, de la remise et du maintien en température réalisés, enregistrés et archivés",TOUT
+146,"Actions correctives de la cuisson, de la remise et du maintien en température réalisées, enregistrées et archivées",TOUT
+147,Existence d'une procédure cycles de refroidissement,TOUT
+148,Bonne réalisation des opérations de refroidissement,TOUTSAUFBC
+149,"Autocontrôles cycles de refroidissement réalisés, enregistrés et archivés",TOUT
+150,"Actions correctives cycles de refroidissement réalisées, enregistrées et archivées",TOUT
+,,
+Vente traditionnelle,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+200,État des locaux et du matériel,TOUT
+104,Conformité des matériaux au contact des aliments,TOUTSAUFBC
+105,Protection des produits,TOUT
+106,Séparation des denrées alimentaires de nature différente,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+120,Rotation des produits,TOUT
+121,"Respect des DLC/DUR/DDM ingrédients, des produits déconditionnés et absence de post-datage (KO)",KO
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+126,Conformité de l'étiquetage - mentions générales hors sécurité des denrées alimentaires,TOUTSAUFB
+127,Conformité de l'étiquetage - sécurité des denrées alimentaires,TOUTSAUFBC
+128,Nombre de références dont l’étiquetage est non conforme à la sécurité alimentaire ,
+158,Bonne application de la tare pour la pesée de produit vendu au poids,TOUTSAUFBC
+130,Propreté et conformité de la tenue,TOUT
+131,"Présence de lave-mains, accessibles, conformes, propres et approvisionnés",TOUT
+132,État des mains et absence de bijoux,TOUT
+133,"Lavage des mains ou changement de gants adapté et conforme, absence de plaies non protégées",TOUTSAUFB
+134,Comportement des opérateurs,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+136,Affichage température en état de fonctionnement,TOUTSAUFBC
+137,Respect des limites de charge des meubles ,TOUT
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Vente libre-service,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+122,Absence de reconditionnement avec prolongation de date (Alerte),ALERTE
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+157,Application de durée de vie (DLC) non validée ou supérieure à la durée de vie validée dans le PMS ou dans les GBPH (KO),KO
+126,Conformité de l'étiquetage - mentions générales hors sécurité des denrées alimentaires,TOUTSAUFB
+127,Conformité de l'étiquetage - sécurité des denrées alimentaires,TOUTSAUFBC
+128,Nombre de références dont l’étiquetage est non conforme à la sécurité alimentaire ,
+158,Bonne application de la tare pour la pesée de produit vendu au poids,TOUTSAUFBC
+134,Comportement des opérateurs,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+136,Affichage température en état de fonctionnement,TOUTSAUFBC
+137,Respect des limites de charge des meubles ,TOUT
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Vente vrac,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+105,Protection des produits,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+120,Rotation des produits,TOUT
+121,"Respect des DLC/DUR/DDM ingrédients, des produits déconditionnés et absence de post-datage (KO)",KO
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+157,Application de durée de vie (DLC) non validée ou supérieure à la durée de vie validée dans le PMS ou dans les GBPH (KO),KO
+126,Conformité de l'étiquetage - mentions générales hors sécurité des denrées alimentaires,TOUTSAUFB
+127,Conformité de l'étiquetage - sécurité des denrées alimentaires,TOUTSAUFBC
+128,Nombre de références dont l’étiquetage est non conforme à la sécurité alimentaire ,
+158,Bonne application de la tare pour la pesée de produit vendu au poids,TOUTSAUFBC
+134,Comportement des opérateurs,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+136,Affichage température en état de fonctionnement,TOUTSAUFBC
+137,Respect des limites de charge des meubles ,TOUT
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Commun,,
+56,"Isolement et balisage des produits concernés par une alerte, Affichage des rappels en cours (KO)",KO
+57,Retrait effectif des produits dans le cas d’une alerte (Alerte),ALERTE
+201,Utilisation des locaux et équipements selon leur destination attendue,TOUTSAUFB
+202,Marche en avant - séparation des secteurs,TOUTSAUFC
+203,Hottes et extraction efficaces,TOUTSAUFB
+234,Absence de nuisibles,TOUT
+235,Infestation massive de nuisibles ou dégradation de produits à la vente avec un impact avéré sur les produits (KO),KO
+236,Emplacement des pièges à nuisibles,TOUTSAUFBC
+227,Présence de dossier HACCP pour tous les process de l'activité non couverts par les GBPH officiels ou guide interne enseigne,TOUTSAUFB
+206,Présence des documents de référence pour les activités soumises à dérogation à l'agrément (KO),KO
+207,Absence de pratiques non autorisées par la réglementation (KO),KO
+208,Conformité des poubelles. Traitement hygiénique des déchets,TOUT
+209,Présence et fonctionnement du thermomètre,TOUTSAUFB
+210,Écart constaté avec une sonde de référence =,
+211,Écart constaté lors du test eau glace =,
+212,Bonne réalisation des opérations de contrôle des températures de stockage et/ou de vente en froid,TOUTSAUFB
+213,Autocontrôles température de stockage ou de vente en froid enregistrés et archivés,TOUT
+214,"Actions correctives contrôle et enregistrement température de stockage ou de vente en froid réalisées, enregistrées et archivées",TOUTSAUFB
+215,Planning/protocole de nettoyage connu et appliqué,TOUT
+216,Conformité et états du matériel de nettoyage et désinfection,TOUTSAUFB
+217,"Autocontrôles des tâches de nettoyage réalisés, enregistrés et archivés",TOUT
+218,Conformité des produits d'entretien (agréé contact alimentaire),TOUTSAUFBC
+219,Entreposage isolé des produits d'entretien et matériel de nettoyage,TOUTSAUFBC
+220,Durées de vie définies et validées,TOUTSAUFB
+230,Connaissance et maitrise du danger parasitisme des poissons,TOUTSAUFBC
+221,Conditions de stockage des emballages et conditionnements satisfaisantes,TOUTSAUFC
+163,Bonne réalisation des autocontrôles de tare automatique,TOUT
+165,Respect de la procédure de dégustation,TOUTSAUFC
+222,Sensibilisation aux règles d'hygiène de base,TOUTSAUFB
+223,Conformité de la traçabilité interne ,TOUTSAUFB
+225,Produits non-conformes isolés et balisés (KO),KO
+231,Surveillance des autres PRPo / CCP,TOUT
+237,Absence de défaut d’infrastructure ou de propreté ayant une conséquence directe sur les produits (KO),KO
+,,
+,,
+Patisserie,,
+Stockage,,
+100,Capacités de stockage,TOUTSAUFBC
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+200,État des locaux et du matériel,TOUT
+104,Conformité des matériaux au contact des aliments,TOUTSAUFBC
+105,Protection des produits,TOUT
+106,Séparation des denrées alimentaires de nature différente,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+110,Identification des denrées alimentaires,TOUT
+120,Rotation des produits,TOUT
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Préparation,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+200,État des locaux et du matériel,TOUT
+104,Conformité des matériaux au contact des aliments,TOUTSAUFBC
+105,Protection des produits,TOUT
+106,Séparation des denrées alimentaires de nature différente,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+113,Conditions de déconditionnement satisfaisantes,TOUTSAUFB
+114,Conditions de déballage décartonnage satisfaisantes,TOUTSAUFB
+115,Conditions de décongélation satisfaisantes,TOUTSAUFBC
+116,Existence de fiches recettes,TOUTSAUFB
+117,Respect des fiches recettes,TOUTSAUFC
+118,Existence d'un protocole formalisé de décontamination des végétaux,TOUTSAUFB
+119,Respect du protocole de décontamination des végétaux,TOUTSAUFB
+121,"Respect des DLC/DUR/DDM ingrédients, des produits déconditionnés et absence de post-datage (KO)",KO
+160,Qualité huile de friture ,TOUTSAUFB
+161,"Autocontrôles huiles de friture réalisés, enregistrés et archivés",TOUT
+130,Propreté et conformité de la tenue,TOUT
+131,"Présence de lave-mains, accessibles, conformes, propres et approvisionnés",TOUT
+132,État des mains et absence de bijoux,TOUT
+133,"Lavage des mains ou changement de gants adapté et conforme, absence de plaies non protégées",TOUTSAUFB
+134,Comportement des opérateurs,TOUTSAUFBC
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+140,Existence d'une procédure de congélation formalisée,TOUT
+141,Bonne réalisation des opérations de congélation,TOUTSAUFBC
+142,"Existence d'une procédure formalisée pour les opérations de cuisson, remise et maintien en température",TOUTSAUFB
+143,Bonne réalisation des opérations de cuisson et remise en température ,TOUTSAUFBC
+147,Existence d'une procédure cycles de refroidissement,TOUT
+148,Bonne réalisation des opérations de refroidissement,TOUTSAUFBC
+149,"Autocontrôles cycles de refroidissement réalisés, enregistrés et archivés",TOUT
+150,"Actions correctives cycles de refroidissement réalisées, enregistrées et archivées",TOUT
+,,
+Vente traditionnelle,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+200,État des locaux et du matériel,TOUT
+104,Conformité des matériaux au contact des aliments,TOUTSAUFBC
+105,Protection des produits,TOUT
+106,Séparation des denrées alimentaires de nature différente,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+120,Rotation des produits,TOUT
+121,"Respect des DLC/DUR/DDM ingrédients, des produits déconditionnés et absence de post-datage (KO)",KO
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+126,Conformité de l'étiquetage - mentions générales hors sécurité des denrées alimentaires,TOUTSAUFB
+127,Conformité de l'étiquetage - sécurité des denrées alimentaires,TOUTSAUFBC
+128,Nombre de références dont l’étiquetage est non conforme à la sécurité alimentaire ,
+158,Bonne application de la tare pour la pesée de produit vendu au poids,TOUTSAUFBC
+130,Propreté et conformité de la tenue,TOUT
+131,"Présence de lave-mains, accessibles, conformes, propres et approvisionnés",TOUT
+132,État des mains et absence de bijoux,TOUT
+133,"Lavage des mains ou changement de gants adapté et conforme, absence de plaies non protégées",TOUTSAUFB
+134,Comportement des opérateurs,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+136,Affichage température en état de fonctionnement,TOUTSAUFBC
+137,Respect des limites de charge des meubles ,TOUT
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Vente libre-service,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+122,Absence de reconditionnement avec prolongation de date (Alerte),ALERTE
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+157,Application de durée de vie (DLC) non validée ou supérieure à la durée de vie validée dans le PMS ou dans les GBPH (KO),KO
+126,Conformité de l'étiquetage - mentions générales hors sécurité des denrées alimentaires,TOUTSAUFB
+127,Conformité de l'étiquetage - sécurité des denrées alimentaires,TOUTSAUFBC
+128,Nombre de références dont l’étiquetage est non conforme à la sécurité alimentaire ,
+158,Bonne application de la tare pour la pesée de produit vendu au poids,TOUTSAUFBC
+134,Comportement des opérateurs,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+136,Affichage température en état de fonctionnement,TOUTSAUFBC
+137,Respect des limites de charge des meubles ,TOUT
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Vente vrac,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+105,Protection des produits,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+120,Rotation des produits,TOUT
+121,"Respect des DLC/DUR/DDM ingrédients, des produits déconditionnés et absence de post-datage (KO)",KO
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+157,Application de durée de vie (DLC) non validée ou supérieure à la durée de vie validée dans le PMS ou dans les GBPH (KO),KO
+126,Conformité de l'étiquetage - mentions générales hors sécurité des denrées alimentaires,TOUTSAUFB
+127,Conformité de l'étiquetage - sécurité des denrées alimentaires,TOUTSAUFBC
+128,Nombre de références dont l’étiquetage est non conforme à la sécurité alimentaire ,
+158,Bonne application de la tare pour la pesée de produit vendu au poids,TOUTSAUFBC
+134,Comportement des opérateurs,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+136,Affichage température en état de fonctionnement,TOUTSAUFBC
+137,Respect des limites de charge des meubles ,TOUT
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Commun,,
+56,"Isolement et balisage des produits concernés par une alerte, Affichage des rappels en cours (KO)",KO
+57,Retrait effectif des produits dans le cas d’une alerte (Alerte),ALERTE
+201,Utilisation des locaux et équipements selon leur destination attendue,TOUTSAUFB
+202,Marche en avant - séparation des secteurs,TOUTSAUFC
+203,Hottes et extraction efficaces,TOUTSAUFB
+234,Absence de nuisibles,TOUT
+235,Infestation massive de nuisibles ou dégradation de produits à la vente avec un impact avéré sur les produits (KO),KO
+236,Emplacement des pièges à nuisibles,TOUTSAUFBC
+227,Présence de dossier HACCP pour tous les process de l'activité non couverts par les GBPH officiels ou guide interne enseigne,TOUTSAUFB
+206,Présence des documents de référence pour les activités soumises à dérogation à l'agrément (KO),KO
+207,Absence de pratiques non autorisées par la réglementation (KO),KO
+208,Conformité des poubelles. Traitement hygiénique des déchets,TOUT
+209,Présence et fonctionnement du thermomètre,TOUTSAUFB
+210,Écart constaté avec une sonde de référence =,
+211,Écart constaté lors du test eau glace =,
+212,Bonne réalisation des opérations de contrôle des températures de stockage et/ou de vente en froid,TOUTSAUFB
+213,Autocontrôles température de stockage ou de vente en froid enregistrés et archivés,TOUT
+214,"Actions correctives contrôle et enregistrement température de stockage ou de vente en froid réalisées, enregistrées et archivées",TOUTSAUFB
+215,Planning/protocole de nettoyage connu et appliqué,TOUT
+216,Conformité et états du matériel de nettoyage et désinfection,TOUTSAUFB
+217,"Autocontrôles des tâches de nettoyage réalisés, enregistrés et archivés",TOUT
+218,Conformité des produits d'entretien (agréé contact alimentaire),TOUTSAUFBC
+219,Entreposage isolé des produits d'entretien et matériel de nettoyage,TOUTSAUFBC
+220,Durées de vie définies et validées,TOUTSAUFB
+221,Conditions de stockage des emballages et conditionnements satisfaisantes,TOUTSAUFC
+163,Bonne réalisation des autocontrôles de tare automatique,TOUT
+165,Respect de la procédure de dégustation,TOUTSAUFC
+222,Sensibilisation aux règles d'hygiène de base,TOUTSAUFB
+223,Conformité de la traçabilité interne ,TOUTSAUFB
+225,Produits non-conformes isolés et balisés (KO),KO
+231,Surveillance des autres PRPo / CCP,TOUT
+237,Absence de défaut d’infrastructure ou de propreté ayant une conséquence directe sur les produits (KO),KO
+,,
+,,
+PGC alimentaire,,
+Stockage,,
+100,Capacités de stockage,TOUTSAUFBC
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+110,Identification des denrées alimentaires,TOUT
+120,Rotation des produits,TOUT
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+,,
+Vente libre-service,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+,,
+Vente vrac,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+105,Protection des produits,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+120,Rotation des produits,TOUT
+121,"Respect des DLC/DUR/DDM ingrédients, des produits déconditionnés et absence de post-datage (KO)",KO
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+157,Application de durée de vie (DLC) non validée ou supérieure à la durée de vie validée dans le PMS ou dans les GBPH (KO),KO
+126,Conformité de l'étiquetage - mentions générales hors sécurité des denrées alimentaires,TOUTSAUFB
+127,Conformité de l'étiquetage - sécurité des denrées alimentaires,TOUTSAUFBC
+128,Nombre de références dont l’étiquetage est non conforme à la sécurité alimentaire ,
+158,Bonne application de la tare pour la pesée de produit vendu au poids,TOUTSAUFBC
+134,Comportement des opérateurs,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+136,Affichage température en état de fonctionnement,TOUTSAUFBC
+137,Respect des limites de charge des meubles ,TOUT
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Commun,,
+56,"Isolement et balisage des produits concernés par une alerte, Affichage des rappels en cours (KO)",KO
+57,Retrait effectif des produits dans le cas d’une alerte (Alerte),ALERTE
+200,État des locaux et du matériel,TOUT
+201,Utilisation des locaux et équipements selon leur destination attendue,TOUTSAUFB
+202,Marche en avant - séparation des secteurs,TOUTSAUFC
+234,Absence de nuisibles,TOUT
+235,Infestation massive de nuisibles ou dégradation de produits à la vente avec un impact avéré sur les produits (KO),KO
+236,Emplacement des pièges à nuisibles,TOUTSAUFBC
+227,Présence de dossier HACCP pour tous les process de l'activité non couverts par les GBPH officiels ou guide interne enseigne,TOUTSAUFB
+207,Absence de pratiques non autorisées par la réglementation (KO),KO
+217,"Autocontrôles des tâches de nettoyage réalisés, enregistrés et archivés",TOUT
+218,Conformité des produits d'entretien (agréé contact alimentaire),TOUTSAUFBC
+219,Entreposage isolé des produits d'entretien et matériel de nettoyage,TOUTSAUFBC
+220,Durées de vie définies et validées,TOUTSAUFB
+163,Bonne réalisation des autocontrôles de tare automatique,TOUT
+165,Respect de la procédure de dégustation,TOUTSAUFC
+223,Conformité de la traçabilité interne ,TOUTSAUFB
+225,Produits non-conformes isolés et balisés (KO),KO
+231,Surveillance des autres PRPo / CCP,TOUT
+237,Absence de défaut d’infrastructure ou de propreté ayant une conséquence directe sur les produits (KO),KO
+,,
+,,
+Stand,,
+Stockage,,
+100,Capacités de stockage,TOUTSAUFBC
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+200,État des locaux et du matériel,TOUT
+104,Conformité des matériaux au contact des aliments,TOUTSAUFBC
+105,Protection des produits,TOUT
+106,Séparation des denrées alimentaires de nature différente,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+110,Identification des denrées alimentaires,TOUT
+111,Conditions de resserre satisfaisantes,TOUTSAUFB
+120,Rotation des produits,TOUT
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Préparation,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+200,État des locaux et du matériel,TOUT
+104,Conformité des matériaux au contact des aliments,TOUTSAUFBC
+105,Protection des produits,TOUT
+106,Séparation des denrées alimentaires de nature différente,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+113,Conditions de déconditionnement satisfaisantes,TOUTSAUFB
+114,Conditions de déballage décartonnage satisfaisantes,TOUTSAUFB
+115,Conditions de décongélation satisfaisantes,TOUTSAUFBC
+116,Existence de fiches recettes,TOUTSAUFB
+117,Respect des fiches recettes,TOUTSAUFC
+118,Existence d'un protocole formalisé de décontamination des végétaux,TOUTSAUFB
+119,Respect du protocole de décontamination des végétaux,TOUTSAUFB
+121,"Respect des DLC/DUR/DDM ingrédients, des produits déconditionnés et absence de post-datage (KO)",KO
+130,Propreté et conformité de la tenue,TOUT
+131,"Présence de lave-mains, accessibles, conformes, propres et approvisionnés",TOUT
+132,État des mains et absence de bijoux,TOUT
+133,"Lavage des mains ou changement de gants adapté et conforme, absence de plaies non protégées",TOUTSAUFB
+134,Comportement des opérateurs,TOUTSAUFBC
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+142,"Existence d'une procédure formalisée pour les opérations de cuisson, remise et maintien en température",TOUTSAUFB
+143,Bonne réalisation des opérations de cuisson et remise en température ,TOUTSAUFBC
+144,Bonne réalisation des opérations de maintien en température ,TOUTSAUFBC
+145,"Autocontrôles de température lors de la cuisson, de la remise et du maintien en température réalisés, enregistrés et archivés",TOUT
+146,"Actions correctives de la cuisson, de la remise et du maintien en température réalisées, enregistrées et archivées",TOUT
+147,Existence d'une procédure cycles de refroidissement,TOUT
+148,Bonne réalisation des opérations de refroidissement,TOUTSAUFBC
+149,"Autocontrôles cycles de refroidissement réalisés, enregistrés et archivés",TOUT
+150,"Actions correctives cycles de refroidissement réalisées, enregistrées et archivées",TOUT
+,,
+Vente traditionnelle,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+200,État des locaux et du matériel,TOUT
+104,Conformité des matériaux au contact des aliments,TOUTSAUFBC
+105,Protection des produits,TOUT
+106,Séparation des denrées alimentaires de nature différente,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+120,Rotation des produits,TOUT
+121,"Respect des DLC/DUR/DDM ingrédients, des produits déconditionnés et absence de post-datage (KO)",KO
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+126,Conformité de l'étiquetage - mentions générales hors sécurité des denrées alimentaires,TOUTSAUFB
+127,Conformité de l'étiquetage - sécurité des denrées alimentaires,TOUTSAUFBC
+128,Nombre de références dont l’étiquetage est non conforme à la sécurité alimentaire ,
+158,Bonne application de la tare pour la pesée de produit vendu au poids,TOUTSAUFBC
+130,Propreté et conformité de la tenue,TOUT
+131,"Présence de lave-mains, accessibles, conformes, propres et approvisionnés",TOUT
+132,État des mains et absence de bijoux,TOUT
+133,"Lavage des mains ou changement de gants adapté et conforme, absence de plaies non protégées",TOUTSAUFB
+134,Comportement des opérateurs,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+136,Affichage température en état de fonctionnement,TOUTSAUFBC
+137,Respect des limites de charge des meubles ,TOUT
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+142,"Existence d'une procédure formalisée pour les opérations de cuisson, remise et maintien en température",TOUTSAUFB
+143,Bonne réalisation des opérations de cuisson et remise en température ,TOUTSAUFBC
+144,Bonne réalisation des opérations de maintien en température ,TOUTSAUFBC
+145,"Autocontrôles de température lors de la cuisson, de la remise et du maintien en température réalisés, enregistrés et archivés",TOUT
+146,"Actions correctives de la cuisson, de la remise et du maintien en température réalisées, enregistrées et archivées",TOUT
+147,Existence d'une procédure cycles de refroidissement,TOUT
+148,Bonne réalisation des opérations de refroidissement,TOUTSAUFBC
+149,"Autocontrôles cycles de refroidissement réalisés, enregistrés et archivés",TOUT
+150,"Actions correctives cycles de refroidissement réalisées, enregistrées et archivées",TOUT
+,,
+Vente libre-service,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+122,Absence de reconditionnement avec prolongation de date (Alerte),ALERTE
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+157,Application de durée de vie (DLC) non validée ou supérieure à la durée de vie validée dans le PMS ou dans les GBPH (KO),KO
+126,Conformité de l'étiquetage - mentions générales hors sécurité des denrées alimentaires,TOUTSAUFB
+127,Conformité de l'étiquetage - sécurité des denrées alimentaires,TOUTSAUFBC
+128,Nombre de références dont l’étiquetage est non conforme à la sécurité alimentaire ,
+158,Bonne application de la tare pour la pesée de produit vendu au poids,TOUTSAUFBC
+134,Comportement des opérateurs,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+136,Affichage température en état de fonctionnement,TOUTSAUFBC
+137,Respect des limites de charge des meubles ,TOUT
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Vente vrac,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+105,Protection des produits,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+120,Rotation des produits,TOUT
+121,"Respect des DLC/DUR/DDM ingrédients, des produits déconditionnés et absence de post-datage (KO)",KO
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+157,Application de durée de vie (DLC) non validée ou supérieure à la durée de vie validée dans le PMS ou dans les GBPH (KO),KO
+126,Conformité de l'étiquetage - mentions générales hors sécurité des denrées alimentaires,TOUTSAUFB
+127,Conformité de l'étiquetage - sécurité des denrées alimentaires,TOUTSAUFBC
+128,Nombre de références dont l’étiquetage est non conforme à la sécurité alimentaire ,
+158,Bonne application de la tare pour la pesée de produit vendu au poids,TOUTSAUFBC
+134,Comportement des opérateurs,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+136,Affichage température en état de fonctionnement,TOUTSAUFBC
+137,Respect des limites de charge des meubles ,TOUT
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Commun,,
+56,"Isolement et balisage des produits concernés par une alerte, Affichage des rappels en cours (KO)",KO
+57,Retrait effectif des produits dans le cas d’une alerte (Alerte),ALERTE
+201,Utilisation des locaux et équipements selon leur destination attendue,TOUTSAUFB
+202,Marche en avant - séparation des secteurs,TOUTSAUFC
+203,Hottes et extraction efficaces,TOUTSAUFB
+234,Absence de nuisibles,TOUT
+235,Infestation massive de nuisibles ou dégradation de produits à la vente avec un impact avéré sur les produits (KO),KO
+236,Emplacement des pièges à nuisibles,TOUTSAUFBC
+227,Présence de dossier HACCP pour tous les process de l'activité non couverts par les GBPH officiels ou guide interne enseigne,TOUTSAUFB
+206,Présence des documents de référence pour les activités soumises à dérogation à l'agrément (KO),KO
+207,Absence de pratiques non autorisées par la réglementation (KO),KO
+208,Conformité des poubelles. Traitement hygiénique des déchets,TOUT
+209,Présence et fonctionnement du thermomètre,TOUTSAUFB
+210,Écart constaté avec une sonde de référence =,
+211,Écart constaté lors du test eau glace =,
+212,Bonne réalisation des opérations de contrôle des températures de stockage et/ou de vente en froid,TOUTSAUFB
+213,Autocontrôles température de stockage ou de vente en froid enregistrés et archivés,TOUT
+214,"Actions correctives contrôle et enregistrement température de stockage ou de vente en froid réalisées, enregistrées et archivées",TOUTSAUFB
+215,Planning/protocole de nettoyage connu et appliqué,TOUT
+216,Conformité et états du matériel de nettoyage et désinfection,TOUTSAUFB
+217,"Autocontrôles des tâches de nettoyage réalisés, enregistrés et archivés",TOUT
+218,Conformité des produits d'entretien (agréé contact alimentaire),TOUTSAUFBC
+219,Entreposage isolé des produits d'entretien et matériel de nettoyage,TOUTSAUFBC
+220,Durées de vie définies et validées,TOUTSAUFB
+221,Conditions de stockage des emballages et conditionnements satisfaisantes,TOUTSAUFC
+163,Bonne réalisation des autocontrôles de tare automatique,TOUT
+165,Respect de la procédure de dégustation,TOUTSAUFC
+222,Sensibilisation aux règles d'hygiène de base,TOUTSAUFB
+223,Conformité de la traçabilité interne ,TOUTSAUFB
+225,Produits non-conformes isolés et balisés (KO),KO
+231,Surveillance des autres PRPo / CCP,TOUT
+237,Absence de défaut d’infrastructure ou de propreté ayant une conséquence directe sur les produits (KO),KO
+,,
+,,
+Traiteur,,
+Stockage,,
+100,Capacités de stockage,TOUTSAUFBC
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+200,État des locaux et du matériel,TOUT
+104,Conformité des matériaux au contact des aliments,TOUTSAUFBC
+105,Protection des produits,TOUT
+106,Séparation des denrées alimentaires de nature différente,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+110,Identification des denrées alimentaires,TOUT
+120,Rotation des produits,TOUT
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+,,
+Préparation,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+200,État des locaux et du matériel,TOUT
+104,Conformité des matériaux au contact des aliments,TOUTSAUFBC
+105,Protection des produits,TOUT
+106,Séparation des denrées alimentaires de nature différente,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+113,Conditions de déconditionnement satisfaisantes,TOUTSAUFB
+114,Conditions de déballage décartonnage satisfaisantes,TOUTSAUFB
+115,Conditions de décongélation satisfaisantes,TOUTSAUFBC
+116,Existence de fiches recettes,TOUTSAUFB
+117,Respect des fiches recettes,TOUTSAUFC
+118,Existence d'un protocole formalisé de décontamination des végétaux,TOUTSAUFB
+119,Respect du protocole de décontamination des végétaux,TOUTSAUFB
+121,"Respect des DLC/DUR/DDM ingrédients, des produits déconditionnés et absence de post-datage (KO)",KO
+160,Qualité huile de friture ,TOUTSAUFB
+161,"Autocontrôles huiles de friture réalisés, enregistrés et archivés",TOUT
+130,Propreté et conformité de la tenue,TOUT
+131,"Présence de lave-mains, accessibles, conformes, propres et approvisionnés",TOUT
+132,État des mains et absence de bijoux,TOUT
+133,"Lavage des mains ou changement de gants adapté et conforme, absence de plaies non protégées",TOUTSAUFB
+134,Comportement des opérateurs,TOUTSAUFBC
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+140,Existence d'une procédure de congélation formalisée,TOUT
+141,Bonne réalisation des opérations de congélation,TOUTSAUFBC
+142,"Existence d'une procédure formalisée pour les opérations de cuisson, remise et maintien en température",TOUTSAUFB
+143,Bonne réalisation des opérations de cuisson et remise en température ,TOUTSAUFBC
+144,Bonne réalisation des opérations de maintien en température ,TOUTSAUFBC
+145,"Autocontrôles de température lors de la cuisson, de la remise et du maintien en température réalisés, enregistrés et archivés",TOUT
+146,"Actions correctives de la cuisson, de la remise et du maintien en température réalisées, enregistrées et archivées",TOUT
+147,Existence d'une procédure cycles de refroidissement,TOUT
+148,Bonne réalisation des opérations de refroidissement,TOUTSAUFBC
+149,"Autocontrôles cycles de refroidissement réalisés, enregistrés et archivés",TOUT
+150,"Actions correctives cycles de refroidissement réalisées, enregistrées et archivées",TOUT
+,,
+Vente traditionnelle,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+102,Propreté du matériel en contact direct avec les aliments et à risque sanitaire,TOUTSAUFBC
+103,Nombre de matériels dont surface(s) en contact avec les aliments sales et à risque sanitaire,
+200,État des locaux et du matériel,TOUT
+104,Conformité des matériaux au contact des aliments,TOUTSAUFBC
+105,Protection des produits,TOUT
+106,Séparation des denrées alimentaires de nature différente,TOUT
+107,Absence de contamination croisée pouvant entraîner un risque sanitaire direct (KO),KO
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+120,Rotation des produits,TOUT
+121,"Respect des DLC/DUR/DDM ingrédients, des produits déconditionnés et absence de post-datage (KO)",KO
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+126,Conformité de l'étiquetage - mentions générales hors sécurité des denrées alimentaires,TOUTSAUFB
+127,Conformité de l'étiquetage - sécurité des denrées alimentaires,TOUTSAUFBC
+128,Nombre de références dont l’étiquetage est non conforme à la sécurité alimentaire ,
+158,Bonne application de la tare pour la pesée de produit vendu au poids,TOUTSAUFBC
+130,Propreté et conformité de la tenue,TOUT
+131,"Présence de lave-mains, accessibles, conformes, propres et approvisionnés",TOUT
+132,État des mains et absence de bijoux,TOUT
+133,"Lavage des mains ou changement de gants adapté et conforme, absence de plaies non protégées",TOUTSAUFB
+134,Comportement des opérateurs,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+136,Affichage température en état de fonctionnement,TOUTSAUFBC
+137,Respect des limites de charge des meubles ,TOUT
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+142,"Existence d'une procédure formalisée pour les opérations de cuisson, remise et maintien en température",TOUTSAUFB
+143,Bonne réalisation des opérations de cuisson et remise en température ,TOUTSAUFBC
+144,Bonne réalisation des opérations de maintien en température ,TOUTSAUFBC
+145,"Autocontrôles de température lors de la cuisson, de la remise et du maintien en température réalisés, enregistrés et archivés",TOUT
+146,"Actions correctives de la cuisson, de la remise et du maintien en température réalisées, enregistrées et archivées",TOUT
+,,
+Vente libre-service,,
+101,Propreté locaux et équipements sans contact direct avec les aliments,TOUT
+108,Fraîcheur et aspect des denrées alimentaires,TOUT
+122,Absence de reconditionnement avec prolongation de date (Alerte),ALERTE
+153,Respect des DLC,TOUTSAUFB
+154,Nombre d'UVC à DLC dépassée,
+155,Respect des DDM / DUR / DCR-7 des œufs,TOUTSAUFB
+156,Nombre d'UVC à date dépassée (DDM / DUR / DCR-7 des œufs),
+125,Bonne application des durées de vie,TOUTSAUFBC
+157,Application de durée de vie (DLC) non validée ou supérieure à la durée de vie validée dans le PMS ou dans les GBPH (KO),KO
+126,Conformité de l'étiquetage - mentions générales hors sécurité des denrées alimentaires,TOUTSAUFB
+127,Conformité de l'étiquetage - sécurité des denrées alimentaires,TOUTSAUFBC
+128,Nombre de références dont l’étiquetage est non conforme à la sécurité alimentaire ,
+158,Bonne application de la tare pour la pesée de produit vendu au poids,TOUTSAUFBC
+134,Comportement des opérateurs,TOUTSAUFBC
+135,Température de la zone adaptée,TOUTSAUFB
+136,Affichage température en état de fonctionnement,TOUTSAUFBC
+137,Respect des limites de charge des meubles ,TOUT
+138,Température produit satisfaisante,TOUTSAUFB
+139,Absence de rupture de chaîne du froid ou du chaud pouvant constituer un risque sanitaire (KO),KO
+143,Bonne réalisation des opérations de cuisson et remise en température ,TOUTSAUFBC
+144,Bonne réalisation des opérations de maintien en température ,TOUTSAUFBC
+145,"Autocontrôles de température lors de la cuisson, de la remise et du maintien en température réalisés, enregistrés et archivés",TOUT
+146,"Actions correctives de la cuisson, de la remise et du maintien en température réalisées, enregistrées et archivées",TOUT
+,,
+Commun,,
+56,"Isolement et balisage des produits concernés par une alerte, Affichage des rappels en cours (KO)",KO
+57,Retrait effectif des produits dans le cas d’une alerte (Alerte),ALERTE
+201,Utilisation des locaux et équipements selon leur destination attendue,TOUTSAUFB
+202,Marche en avant - séparation des secteurs,TOUTSAUFC
+203,Hottes et extraction efficaces,TOUTSAUFB
+234,Absence de nuisibles,TOUT
+235,Infestation massive de nuisibles ou dégradation de produits à la vente avec un impact avéré sur les produits (KO),KO
+236,Emplacement des pièges à nuisibles,TOUTSAUFBC
+227,Présence de dossier HACCP pour tous les process de l'activité non couverts par les GBPH officiels ou guide interne enseigne,TOUTSAUFB
+206,Présence des documents de référence pour les activités soumises à dérogation à l'agrément (KO),KO
+207,Absence de pratiques non autorisées par la réglementation (KO),KO
+208,Conformité des poubelles. Traitement hygiénique des déchets,TOUT
+209,Présence et fonctionnement du thermomètre,TOUTSAUFB
+210,Écart constaté avec une sonde de référence =,
+211,Écart constaté lors du test eau glace =,
+212,Bonne réalisation des opérations de contrôle des températures de stockage et/ou de vente en froid,TOUTSAUFB
+213,Autocontrôles température de stockage ou de vente en froid enregistrés et archivés,TOUT
+214,"Actions correctives contrôle et enregistrement température de stockage ou de vente en froid réalisées, enregistrées et archivées",TOUTSAUFB
+215,Planning/protocole de nettoyage connu et appliqué,TOUT
+216,Conformité et états du matériel de nettoyage et désinfection,TOUTSAUFB
+217,"Autocontrôles des tâches de nettoyage réalisés, enregistrés et archivés",TOUT
+218,Conformité des produits d'entretien (agréé contact alimentaire),TOUTSAUFBC
+219,Entreposage isolé des produits d'entretien et matériel de nettoyage,TOUTSAUFBC
+220,Durées de vie définies et validées,TOUTSAUFB
+221,Conditions de stockage des emballages et conditionnements satisfaisantes,TOUTSAUFC
+163,Bonne réalisation des autocontrôles de tare automatique,TOUT
+165,Respect de la procédure de dégustation,TOUTSAUFC
+222,Sensibilisation aux règles d'hygiène de base,TOUTSAUFB
+223,Conformité de la traçabilité interne ,TOUTSAUFB
+225,Produits non-conformes isolés et balisés (KO),KO
+231,Surveillance des autres PRPo / CCP,TOUT
+237,Absence de défaut d’infrastructure ou de propreté ayant une conséquence directe sur les produits (KO),KO
